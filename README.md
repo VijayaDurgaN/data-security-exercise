@@ -45,6 +45,4 @@ This notebook / video aims to start approaching these questions as you learn dat
 - [Introduction to Anonymization via Differential Privacy](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html)
 - [OpenMined: Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation) 
 
-## Questions?
 
-Questions about getting set up or the content covered in the notebooks or book? Feel free to reach out via email at: katharine (at) kjamistan (dot) com
