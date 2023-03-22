@@ -15,7 +15,7 @@ This notebook / video aims to start approaching these questions as you learn dat
 
 - Security and Privacy in Data Engineering (follow the [Quickstart](#quickstart) guide and follow along with the video)
 - Use the example Databricks notebook to get started, try to recreate the same steps in Spark, how would you do it?
-- If you get stuck or want to compare notes, please look at the hints in the solutions folder. There is a notebook with one way to solve the same steps (see: Security and Privacy in Data Engineering - Spark Version).
+- If you get stuck or want to compare notes, please look at the solutions in the hidden cells in notebook.
 
 ### Extra Materials
 - Generating Example Data notebook (this should not be required to use and has additional software dependencies)
@@ -30,7 +30,7 @@ This notebook / video aims to start approaching these questions as you learn dat
 
    ![databricks-import](https://github.com/data-derp/documentation/blob/master/databricks/assets/databricks-import.png?raw=true)
 
-4. Import the `Security and Privacy in Data Engineering.dbc` notebook using the URL method: `https://github.com/data-derp/exercise-data-security/blob/e5da49ac302dc7ed25107f786f982d53ff192db0/Security%20and%20Privacy%20in%20Data%20Engineering.dbc?raw=true`
+4. Import the `Security and Privacy in Data Engineering.dbc` notebook using the URL method: `https://github.com/VijayaDurgaN/data-security-exercise/blob/master/Security%20and%20Privacy%20in%20Data%20Engineering.dbc`
 
 5. Select your cluster
  ![databricks-select-cluster.png](https://github.com/data-derp/documentation/blob/master/databricks/assets/databricks-select-cluster.png?raw=true)
