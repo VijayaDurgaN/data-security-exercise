@@ -23,8 +23,9 @@ This notebook / video aims to start approaching these questions as you learn dat
 
 ## Quickstart
 
-1. Set up a [Databricks Account](https://github.com/data-derp/documentation/blob/master/databricks/README.md) if you don't already have one
-2. [Create a cluster](https://github.com/data-derp/documentation/blob/master/databricks/setup-cluster.md) if you don't already have one
+1. Use the link https://dbc-18be7038-5682.cloud.databricks.com/ to access th workspace.
+2. Set up a [Databricks Account](https://github.com/data-derp/documentation/blob/master/databricks/README.md) if you don't already have one
+3. [Create a cluster](https://github.com/data-derp/documentation/blob/master/databricks/setup-cluster.md) if you don't already have one
 
 3. In your User's workspace, click import
 
